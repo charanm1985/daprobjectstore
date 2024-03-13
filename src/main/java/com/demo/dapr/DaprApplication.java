@@ -9,7 +9,7 @@ public class DaprApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DaprApplication.class, args);
 
-
+		System.out.println("Hello World");
 
 	}
 
